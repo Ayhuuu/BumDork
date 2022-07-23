@@ -1,5 +1,5 @@
 # Ayhuuu
-kullanım: cyberDork.py [-h] [-d DORK] [-n NUM_RESULTS] [-o DOSYA ADI] [-c [CHECK_RESULT]]
+kullanım: BumDork.py [-h] [-d DORK] [-n NUM_RESULTS] [-o DOSYA ADI] [-c [CHECK_RESULT]]
 
 isteğe bağlı argümanlar: -h, --help
 
