@@ -13,7 +13,7 @@ isteğe bağlı argümanlar: -h, --help
 
 Kullanım Örnekleri:
 
-python3 cyberDork.py -d "intitle:webcamXP inurl:8080" -n 20 -c
-python3 cyberDork.py -d "intitle:index of / P intext:index of /" -n 20 -c
-python3 cyberDork.py -d "intext: filetype.txt'ye izin ver" -n 20 -c
+python3 BumDork.py -d "intitle:webcamXP inurl:8080" -n 20 -c
+python3 BumDork.py -d "intitle:index of / P intext:index of /" -n 20 -c
+python3 BumDork.py -d "intext: filetype.txt'ye izin ver" -n 20 -c
 
