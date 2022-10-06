@@ -75,10 +75,8 @@ def do_dorks(dorks, num_res):
 
 
 banner = '''
- CyberDork v1.0                                                            
- Author: tecknoh19
- github: github.com/tecknoh19
- gists:  gist.github.com/tecknoh19
+ BumDork v1.0                                                            
+
 
 '''
 
